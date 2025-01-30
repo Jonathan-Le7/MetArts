@@ -1,0 +1,14 @@
+#root{
+    padding:0px;
+    margin:0px;
+}
+
+@font-face {
+    font-family: 'NatureBeauty';
+    src: url('./assets/NatureBeautyPersonalUse-9Y2DK.ttf') format('truetype');
+  }
+  
+  .custom-font {
+    font-family: 'NatureBeauty', sans-serif;
+  }
+  
