@@ -7,7 +7,7 @@ import {getFirestore,doc,setDoc} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCQPSpapcSFKLs3-sFYwQ7vexObMdVYubI",
+  apiKey: "",
   authDomain: "meta-draw.firebaseapp.com",
   projectId: "meta-draw",
   storageBucket: "meta-draw.firebasestorage.app",
